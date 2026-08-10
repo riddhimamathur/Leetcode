@@ -1,3 +1,5 @@
+class Solution {
+public: 
 vector <int> pairSum(vector<int> nums, int target) {
     vector<int> ans;
     int n = nums.size();
